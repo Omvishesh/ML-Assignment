@@ -1,1 +1,3 @@
-large_data.csvlarge_data.csv
+large_data.csv
+.venv/
+__pycache__/
