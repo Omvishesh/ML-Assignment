@@ -1,0 +1,29 @@
+CourseID,CourseName,Category,DurationDays,Price,Enrollments
+1001,Intro to Python,Programming,30,99.99,5500
+1002,Advanced CSS,Design,15,49.00,3200
+1003,Social Media Strategy,Marketing,45,199.50,1800
+1004,Data Science Fundamentals,Programming,60,299.00,8100
+1005,Logo Design Masterclass,Design,20,75.50,4500
+1006,Email Marketing Basics,Marketing,10,25.00,2900
+1007,Web Development with Flask,Programming,40,149.99,6300
+1008,UX/UI Principles,Design,35,120.00,3900
+1009,Machine Learning Essentials,Programming,50,399.00,12000
+1010,Blockchain Fundamentals,Programming,45,299.99,9500
+1011,3D Modeling for Beginners,Design,30,199.50,6200
+1012,Digital Marketing Strategy,Marketing,50,349.00,15000
+1013,Social Media Analytics,Marketing,40,249.99,8500
+1014,Web Development Frameworks,Programming,55,349.99,11000
+1015,Data Visualization Techniques,Programming,60,399.00,13000
+1016,Digital Marketing Tools,Marketing,45,299.99,10500
+1017,SEO Optimization,Marketing,40,249.99,9000
+1018,Artificial Intelligence Fundamentals,Programming,55,399.00,14000
+1019,Cloud Computing Essentials,Programming,45,299.99,10000
+1020,Blockchain Applications,Programming,50,399.99,11500
+1021,3D Printing Technology,Design,35,249.50,7500
+1022,Social Media Marketing Campaigns,Marketing,40,299.99,9500
+1023,Web Development Frameworks,Programming,55,399.99,12500
+1024,Data Visualization Techniques,Programming,60,449.00,14500
+1025,Digital Marketing Tools,Marketing,45,349.99,11500
+1026,SEO Optimization,Marketing,40,299.99,9500
+1027,Artificial Intelligence Fundamentals,Programming,55,449.00,15500
+1028,Cloud Computing Essentials,Programming,45,349.99,12000
